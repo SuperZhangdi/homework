@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title> 
+<</head>
+<body>
+    <table border="1" background="timg.jpg">
+    <caption>课程表</caption>
+    <tr>
+        <th>&nbsp;</th>
+        <th>星期一</th>
+        <th>星期二</th>
+        <th>星期三</th>
+        <th>星期四</th>
+        <th>星期五</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td rowspan="2" >web应用开发技术_01(西区第一公共教学楼C411) </td>
+        <td rowspan="2"> 大学英语四级（A）_64(西区第一公共教学楼C221) </td>
+        <td rowspan="2" >管理信息系统_02(西区第一公共教学楼C105) </td>
+        <td rowspan="2" >数据库原理及应用_01(西区第一公共教学楼B405）</td>
+        <td rowspan="2">大学英语四级（A）_64(西区外语学院楼219) </td>
+    </tr>
+    <tr>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td rowspan="2">毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120) </td>
+        <td rowspan="2" > 管理科学基础_01(西区第一公共教学楼C411)  </td>
+        <td rowspan="2" >毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120)</td>
+        <td rowspan="2" >管理科学基础_01(西区第一公共教学楼C411) </td>
+        <td rowspan="2" >运营管理_02(西区第一公共教学楼B405) </td>
+    </tr>
+    <tr>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td rowspan="2" >管理信息系统_02(西区第一公共教学楼C105) </td>
+        <td rowspan="2" > 形势与政策2_41(西区第一公共教学楼C123) </td>
+        <td rowspan="2">会计学_01(西区第一公共教学楼B101)</td>
+        <td rowspan="2" >体育_04（体育馆）</td>
+        <td rowspan="2" >毛泽东思想与中国特色社会主义理论体系概论_13(西区第一公共教学楼A120)</td>
+    </tr>
+    <tr>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td rowspan="2" >电子商务_01(西区第一公共教学楼B303) </td>
+        <td rowspan="2">数据库原理及应用_01(西区第一公共教学楼C109) </td>
+        <td rowspan="2" >&nbsp;</td>
+        <td rowspan="2">会计学_01(西区第一公共教学楼B101) </td>
+        <td rowspan="2" >&nbsp;</td>
+    </tr>
+    <tr>
+        <td>8</td>
+    </tr>
+</table>
+</body>
+</html>
